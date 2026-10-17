@@ -1,0 +1,3 @@
+import ZhiyuLaunchKit
+
+ZhiyuLaunchApp.main()
